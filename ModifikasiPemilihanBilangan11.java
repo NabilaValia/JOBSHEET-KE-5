@@ -9,6 +9,8 @@ public class ModifikasiPemilihanBilangan11 {
 
         String jenisBilangan = (angka % 2 == 0) ? "genap" : "ganjil";
         System.out.print("Angka " + angka + " termasuk bilangan " + jenisBilangan);
+         
+        
 
    
 }
